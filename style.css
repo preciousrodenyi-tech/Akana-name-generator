@@ -1,7 +1,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif; 
-    background-color: hsl(288, 40%, 24%); 
+    background-color: black; 
     color: #333;
     margin: 0;
     padding: 0;
@@ -9,8 +9,8 @@ body {
 
 
 header {
-    background-color: #0078d7; 
-    color: #3a0909;
+    background-color: blue; 
+    color: white;
     text-align: center;
     padding: 20px;
     font-size: 1.5rem;
@@ -25,7 +25,7 @@ main {
 }
 
 .akana {
-    background: #168829;
+    background: paleturquoise;
     padding: 25px;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(35, 3, 48, 0.1);
@@ -37,7 +37,7 @@ main {
     text-align: center;
     font-size: 1.2rem;
     margin-bottom: 20px;
-    color: #222;
+    color:brown;
 }
 
 
@@ -64,8 +64,8 @@ select {
 }
 
 button {
-    background-color: #0078d7;
-    color: black;
+    background-color: blue;
+    color: white;
     border: none;
     padding: 12px;
     border-radius: 5px;
@@ -75,6 +75,6 @@ button {
 }
 
 button:hover {
-    background-color: #005a9e;
+    background-color: darkblue;
 }
 
